@@ -1,0 +1,24 @@
+{
+  "name": "Stateless QR",
+  "short_name": "QR",
+  "description": "Generate and scan QR codes offline – no data leaves the device",
+  "start_url": "./stateless-qr.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff6a00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
